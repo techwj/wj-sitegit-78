@@ -1,0 +1,88 @@
+# Validation Report - budget-travel-plan
+
+Generated: 2026-06-02T19:22:08.786450
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Ultimate Guide to Beginner Budget Travel Plan
+- ✓ Article word count OK: Beginner Budget Travel Plan: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Budget Travel Plan
+- ✓ Article word count OK: Beginner Budget Travel Plan Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Budget Travel Plan
+- ✓ Article word count OK: Beginner Budget Travel Plan in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Budget Travel Plan
+- ✓ Article word count OK: Common Mistakes in Beginner Budget Travel Plan
+- ✓ Article word count OK: Beginner Budget Travel Plan for Beginners
+- ✓ Article word count OK: Advanced Beginner Budget Travel Plan Techniques
+- ✓ Article word count OK: The Ultimate Guide to Advanced Budget Travel Plan
+- ✓ Article word count OK: Advanced Budget Travel Plan: Everything You Need to Know
+- ✓ Article word count OK: Understanding Advanced Budget Travel Plan
+- ✓ Article word count OK: Advanced Budget Travel Plan Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced Budget Travel Plan
+- ✓ Article word count OK: Advanced Budget Travel Plan in 2026: Current Trends
+- ✓ Article word count OK: Future of Advanced Budget Travel Plan
+- ✓ Article word count OK: Common Mistakes in Advanced Budget Travel Plan
+- ✓ Article word count OK: Advanced Budget Travel Plan for Beginners
+- ✓ Article word count OK: Advanced Advanced Budget Travel Plan Techniques
+- ✓ Article word count OK: The Ultimate Guide to Budget Travel Plan Tips
+- ✓ Article word count OK: Budget Travel Plan Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Budget Travel Plan Tips
+- ✓ Article word count OK: Budget Travel Plan Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Budget Travel Plan Tips
+- ✓ Article word count OK: Budget Travel Plan Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Budget Travel Plan Tips
+- ✓ Article word count OK: Common Mistakes in Budget Travel Plan Tips
+- ✓ Article word count OK: Budget Travel Plan Tips for Beginners
+- ✓ Article word count OK: Advanced Budget Travel Plan Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Budget Travel Plan History
+- ✓ Article word count OK: Budget Travel Plan History: Everything You Need to Know
+- ✓ Article word count OK: Understanding Budget Travel Plan History
+- ✓ Article word count OK: Budget Travel Plan History Tips and Best Practices
+- ✓ Article word count OK: The History of Budget Travel Plan History
+- ✓ Article word count OK: Budget Travel Plan History in 2026: Current Trends
+- ✓ Article word count OK: Future of Budget Travel Plan History
+- ✓ Article word count OK: Common Mistakes in Budget Travel Plan History
+- ✓ Article word count OK: Budget Travel Plan History for Beginners
+- ✓ Article word count OK: Advanced Budget Travel Plan History Techniques
+- ✓ Article word count OK: The Ultimate Guide to Trending Budget Travel Plan
+- ✓ Article word count OK: Trending Budget Travel Plan: Everything You Need to Know
+- ✓ Article word count OK: Understanding Trending Budget Travel Plan
+- ✓ Article word count OK: Trending Budget Travel Plan Tips and Best Practices
+- ✓ Article word count OK: The History of Trending Budget Travel Plan
+- ✓ Article word count OK: Trending Budget Travel Plan in 2026: Current Trends
+- ✓ Article word count OK: Future of Trending Budget Travel Plan
+- ✓ Article word count OK: Common Mistakes in Trending Budget Travel Plan
+- ✓ Article word count OK: Trending Budget Travel Plan for Beginners
+- ✓ Article word count OK: Advanced Trending Budget Travel Plan Techniques
+- ✓ Article word count OK: The Ultimate Guide to Budget Travel Plan Tutorials
+- ✓ Article word count OK: Budget Travel Plan Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding Budget Travel Plan Tutorials
+- ✓ Article word count OK: Budget Travel Plan Tutorials Tips and Best Practices
+- ✓ Article word count OK: The History of Budget Travel Plan Tutorials
+- ✓ Article word count OK: Budget Travel Plan Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Future of Budget Travel Plan Tutorials
+- ✓ Article word count OK: Common Mistakes in Budget Travel Plan Tutorials
+- ✓ Article word count OK: Budget Travel Plan Tutorials for Beginners
+- ✓ Article word count OK: Advanced Budget Travel Plan Tutorials Techniques
+- ✓ Ad configuration validated

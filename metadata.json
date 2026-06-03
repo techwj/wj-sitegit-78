@@ -1,0 +1,59 @@
+{
+  "siteId": "budget-travel-plan",
+  "generatedAt": "2026-06-02T19:22:08.786598",
+  "categories": [
+    "beginner-budget-travel-plan",
+    "advanced-budget-travel-plan",
+    "tips-budget-travel-plan",
+    "history-budget-travel-plan",
+    "trending-budget-travel-plan",
+    "tutorials-budget-travel-plan"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-budget-travel-plan",
+      "category_name": "Beginner Budget Travel Plan"
+    },
+    {
+      "category_slug": "advanced-budget-travel-plan",
+      "category_name": "Advanced Budget Travel Plan"
+    },
+    {
+      "category_slug": "tips-budget-travel-plan",
+      "category_name": "Budget Travel Plan Tips"
+    },
+    {
+      "category_slug": "history-budget-travel-plan",
+      "category_name": "Budget Travel Plan History"
+    },
+    {
+      "category_slug": "trending-budget-travel-plan",
+      "category_name": "Trending Budget Travel Plan"
+    },
+    {
+      "category_slug": "tutorials-budget-travel-plan",
+      "category_name": "Budget Travel Plan Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "budget-travel-plan",
+    "color_scheme": {
+      "name": "Ocean Blue",
+      "primary": "#1e3a8a",
+      "secondary": "#3b82f6",
+      "accent": "#60a5fa",
+      "background": "#f8fafc",
+      "text": "#1e293b",
+      "light": "#f1f5f9"
+    },
+    "font": {
+      "family": "Inter, system-ui, -apple-system, sans-serif",
+      "heading": "Inter",
+      "body": "Inter"
+    },
+    "layout": "sidebar",
+    "site_title": "Budget Travel Plan Central",
+    "articles_per_row": 1
+  }
+}
